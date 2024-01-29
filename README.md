@@ -1,8 +1,15 @@
-# React + Vite
+# AI Article Summarizer
+Get Summary of any article url.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- AI summary using rapid api
+- ReactJS project using Vite
+- A responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
+- RTK query for API requests
+- Clean code
 
-Currently, two official plugins are available:
+## Tech Used
+React, vite, tailwind css, Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## LIVE URL
+https://fq-ai-article-summarizer.netlify.app/
